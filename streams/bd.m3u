@@ -5,3 +5,41 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 https://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 tvg-id="EkusheyTV.bd",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id="pbc.ps",PALESTINE LIVE
+https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
+#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,KSA 1
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa",Qatar Television (720p)
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa",Qatar Television 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="AmmanTV.jo",Amman TV (720p)
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo",Jordan Satellite Channel (1080p)
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="NablusTV.ps",Nablus TV (720p) [Not 24/7]
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 tvg-id="foxsports.us",foxsports
+http://116229191157.rsc.cdn77.cc/FoxCricketHD/index.m3u8?token=78241f2435cbbbdd320874995b3341ea
+EXTINF:-1,Premier Sports 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1,Premier Sports 4
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1,Premier Sports 5
+http://202.21.104.6:88/sps-plus/index.m3u8
+#EXTINF:-1,ORT1TV
+http://202.21.104.6:88/ort-tv/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar
+http://live-hls-ajm.getaj.net/AJM/02.m3u8
